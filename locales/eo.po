@@ -20,17 +20,17 @@ msgstr ""
 
 #: src/puppetlabs/jdbc_util/core.clj:44
 msgid "Status check of db failed with error:"
-msgstr "[Şŧȧŧŭş ƈħḗƈķ ǿƒ ḓƀ ƒȧīŀḗḓ ẇīŧħ ḗřřǿř: 衋ǈςẛϑϱ ϑΰϕ]"
+msgstr "[Şŧȧŧŭş ƈħḗƈķ ǿƒ ḓƀ ƒȧīŀḗḓ ẇīŧħ ḗřřǿř: 鶱ΰϕςΰϕ ϕςẛ]"
 
 #: src/puppetlabs/jdbc_util/core.clj:47
 msgid "Database status check timed out after 4 seconds."
-msgstr "[Ḓȧŧȧƀȧşḗ şŧȧŧŭş ƈħḗƈķ ŧīḿḗḓ ǿŭŧ ȧƒŧḗř 4 şḗƈǿƞḓş. ǅΐϱǅςǈϱΐ ΐ]"
+msgstr "[Ḓȧŧȧƀȧşḗ şŧȧŧŭş ƈħḗƈķ ŧīḿḗḓ ǿŭŧ ȧƒŧḗř 4 şḗƈǿƞḓş. ϵǲǅǲ靐靐ΰΰ ǈ]"
 
 #: src/puppetlabs/jdbc_util/core.clj:158
 msgid "There are no '?'s in the given string"
 msgid_plural "There are not {0} '?'s in the given string"
-msgstr[0] "[Ŧħḗřḗ ȧřḗ ƞǿ '?'ş īƞ ŧħḗ ɠīṽḗƞ şŧřīƞɠ ſϵẛ鶱ϐ ǲϑſ]"
-msgstr[1] "[Ŧħḗřḗ ȧřḗ ƞǿŧ {0} '?'ş īƞ ŧħḗ ɠīṽḗƞ şŧřīƞɠ ǋϱϵϐǲ ıςſ]"
+msgstr[0] "[Ŧħḗřḗ ȧřḗ ƞǿ '?'ş īƞ ŧħḗ ɠīṽḗƞ şŧřīƞɠ ıϖϱ衋靐 ϱϑ衋]"
+msgstr[1] "[Ŧħḗřḗ ȧřḗ ƞǿŧ {0} '?'ş īƞ ŧħḗ ɠīṽḗƞ şŧřīƞɠ ǈ靐ΐϵϕ ϱϖſ]"
 
 #: src/puppetlabs/jdbc_util/middleware.clj:17
 msgid ""
@@ -38,76 +38,76 @@ msgid ""
 "permissions."
 msgstr ""
 "[Ŧħḗ ǿƥḗřȧŧīǿƞ ƈǿŭŀḓ ƞǿŧ ƀḗ ƥḗřƒǿřḿḗḓ ƀḗƈȧŭşḗ ǿƒ īƞşŭƒƒīƈīḗƞŧ ḓȧŧȧƀȧşḗ "
-"ƥḗřḿīşşīǿƞş. ςẛ衋 衋ı鶱ẛ衋ΰϱ靐ϕ]"
+"ƥḗřḿīşşīǿƞş. ſǲı ẛϕẛϑϕΐ衋ςϕ]"
 
 #: src/puppetlabs/jdbc_util/pglogical.clj:145
 msgid "Database replication for {0} is currently down."
-msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş ƈŭřřḗƞŧŀẏ ḓǿẇƞ. ſſ鶱ǈΰϵ鶱ϖ ϐ]"
+msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş ƈŭřřḗƞŧŀẏ ḓǿẇƞ. ſ鶱ſ鶱ϕıϖϵ ǈ]"
 
 #: src/puppetlabs/jdbc_util/pglogical.clj:146
 msgid "Database replication for {0} has been disabled."
-msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} ħȧş ƀḗḗƞ ḓīşȧƀŀḗḓ. ϱΰΐςẛ衋ǈϕ ϵ]"
+msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} ħȧş ƀḗḗƞ ḓīşȧƀŀḗḓ. ǈǈǲıΐ靐ΰǅ ϱ]"
 
 #: src/puppetlabs/jdbc_util/pglogical.clj:147
 msgid "Database replication for {0} is in an unknown state."
-msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş īƞ ȧƞ ŭƞķƞǿẇƞ şŧȧŧḗ. 衋鶱ϰϰǋϱϑ]"
+msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş īƞ ȧƞ ŭƞķƞǿẇƞ şŧȧŧḗ. ΰϑ衋ǋϐΰϑ]"
 
 #: src/puppetlabs/jdbc_util/pglogical.clj:148
 msgid "Database replication for {0} is inactive"
-msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş īƞȧƈŧīṽḗ ϐſẛǅ鶱ẛϑǅ ǲ]"
+msgstr "[Ḓȧŧȧƀȧşḗ řḗƥŀīƈȧŧīǿƞ ƒǿř {0} īş īƞȧƈŧīṽḗ ſǅΐϰΐẛϑϵ ΰ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:37
 msgid "{0} is not a supported HikariCP option"
-msgstr "[{0} īş ƞǿŧ ȧ şŭƥƥǿřŧḗḓ ĦīķȧřīƇƤ ǿƥŧīǿƞ ΐϐſ 靐ϖ ǅϵẛ]"
+msgstr "[{0} īş ƞǿŧ ȧ şŭƥƥǿřŧḗḓ ĦīķȧřīƇƤ ǿƥŧīǿƞ ϵǲϖ ǲϐ ΐϕǲ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:122
 msgid "{0} - Starting database initialization"
-msgstr "[{0} - Şŧȧřŧīƞɠ ḓȧŧȧƀȧşḗ īƞīŧīȧŀīzȧŧīǿƞ ϱ鶱ς 靐 ϑϱϖ鶱ϑ]"
+msgstr "[{0} - Şŧȧřŧīƞɠ ḓȧŧȧƀȧşḗ īƞīŧīȧŀīzȧŧīǿƞ ϵςϵ ǈ ϵΰϕΰς]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:128
 msgid "{0} - Starting database migration"
-msgstr "[{0} - Şŧȧřŧīƞɠ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ 鶱ϑς ı ǅςϑς]"
+msgstr "[{0} - Şŧȧřŧīƞɠ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ 衋ϑ靐 ǲ ϖϰǲϕ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:138
 msgid "{0} - An error was encountered during database migration."
-msgstr "[{0} - Ȧƞ ḗřřǿř ẇȧş ḗƞƈǿŭƞŧḗřḗḓ ḓŭřīƞɠ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ. 靐ΐΐ ϵ ſϕ]"
+msgstr "[{0} - Ȧƞ ḗřřǿř ẇȧş ḗƞƈǿŭƞŧḗřḗḓ ḓŭřīƞɠ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ. ϖϐΰ ϐ ſ靐]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:140
 msgid "{0} - Finished database migration"
-msgstr "[{0} - Ƒīƞīşħḗḓ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ ς衋ΐ ϰ ϕϐ衋ǅ]"
+msgstr "[{0} - Ƒīƞīşħḗḓ ḓȧŧȧƀȧşḗ ḿīɠřȧŧīǿƞ ϱϖ靐 ϐ ǅΐΐϐ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:142
 msgid "{0} - Starting post-migration init-fn"
-msgstr "[{0} - Şŧȧřŧīƞɠ ƥǿşŧ-ḿīɠřȧŧīǿƞ īƞīŧ-ƒƞ 衋ϖϵ ϖ ΰϱϐı]"
+msgstr "[{0} - Şŧȧřŧīƞɠ ƥǿşŧ-ḿīɠřȧŧīǿƞ īƞīŧ-ƒƞ ǋı衋 ΰ ıϑẛ鶱]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:144
 msgid "{0} - Finished post-migration init-fn"
-msgstr "[{0} - Ƒīƞīşħḗḓ ƥǿşŧ-ḿīɠřȧŧīǿƞ īƞīŧ-ƒƞ ǈϖϐ ϵ ẛẛΐϖ]"
+msgstr "[{0} - Ƒīƞīşħḗḓ ƥǿşŧ-ḿīɠřȧŧīǿƞ īƞīŧ-ƒƞ ıǋı ϰ 靐ẛǋϵ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:147
 msgid "{0} - An error was encountered during initialization."
-msgstr "[{0} - Ȧƞ ḗřřǿř ẇȧş ḗƞƈǿŭƞŧḗřḗḓ ḓŭřīƞɠ īƞīŧīȧŀīzȧŧīǿƞ. 鶱ΐ靐 ς ſ]"
+msgstr "[{0} - Ȧƞ ḗřřǿř ẇȧş ḗƞƈǿŭƞŧḗřḗḓ ḓŭřīƞɠ īƞīŧīȧŀīzȧŧīǿƞ. 衋ΰϕ 衋 鶱]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:151
 msgid "{0} - Error while attempting to connect to database, retrying."
 msgstr ""
-"[{0} - Ḗřřǿř ẇħīŀḗ ȧŧŧḗḿƥŧīƞɠ ŧǿ ƈǿƞƞḗƈŧ ŧǿ ḓȧŧȧƀȧşḗ, řḗŧřẏīƞɠ. ς衋衋 ϵ ϵ鶱ΐ]"
+"[{0} - Ḗřřǿř ẇħīŀḗ ȧŧŧḗḿƥŧīƞɠ ŧǿ ƈǿƞƞḗƈŧ ŧǿ ḓȧŧȧƀȧşḗ, řḗŧřẏīƞɠ. ϱǋϵ ǲ 衋ςſ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:160 src/puppetlabs/jdbc_util/pool.clj:163
 msgid "Timeout waiting for the database pool to become ready."
-msgstr "[Ŧīḿḗǿŭŧ ẇȧīŧīƞɠ ƒǿř ŧħḗ ḓȧŧȧƀȧşḗ ƥǿǿŀ ŧǿ ƀḗƈǿḿḗ řḗȧḓẏ. ϐ靐ΰϐ衋ǋǈ]"
+msgstr "[Ŧīḿḗǿŭŧ ẇȧīŧīƞɠ ƒǿř ŧħḗ ḓȧŧȧƀȧşḗ ƥǿǿŀ ŧǿ ƀḗƈǿḿḗ řḗȧḓẏ. ΰııςſ靐ϖ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:183
 msgid "Initialization resulted in an error: {0}"
-msgstr "[Īƞīŧīȧŀīzȧŧīǿƞ řḗşŭŀŧḗḓ īƞ ȧƞ ḗřřǿř: {0} ϵǈϰϖıǈǲ衋ϰǋ]"
+msgstr "[Īƞīŧīȧŀīzȧŧīǿƞ řḗşŭŀŧḗḓ īƞ ȧƞ ḗřřǿř: {0} ϖııǲϰẛǲſϖǋ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:196
 msgid "{0} - Blocking execution until db init has finished"
-msgstr "[{0} - Ɓŀǿƈķīƞɠ ḗẋḗƈŭŧīǿƞ ŭƞŧīŀ ḓƀ īƞīŧ ħȧş ƒīƞīşħḗḓ ΐϱϱ ǈ ϕ]"
+msgstr "[{0} - Ɓŀǿƈķīƞɠ ḗẋḗƈŭŧīǿƞ ŭƞŧīŀ ḓƀ īƞīŧ ħȧş ƒīƞīşħḗḓ 衋鶱ς ϵ 靐]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:200 src/puppetlabs/jdbc_util/pool.clj:207
 msgid "{0} - Exception generated during init"
-msgstr "[{0} - Ḗẋƈḗƥŧīǿƞ ɠḗƞḗřȧŧḗḓ ḓŭřīƞɠ īƞīŧ ϱǲϑ ϖ ϰ鶱ΐ鶱]"
+msgstr "[{0} - Ḗẋƈḗƥŧīǿƞ ɠḗƞḗřȧŧḗḓ ḓŭřīƞɠ īƞīŧ ϑϖϕ 衋 衋ǋϖǲ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:202
 msgid ""
@@ -115,8 +115,8 @@ msgid ""
 "timeout "
 msgstr ""
 "[{0} - Ɓŀǿƈķīƞɠ ḗẋḗƈŭŧīǿƞ ŭƞŧīŀ ḓƀ īƞīŧ ħȧş ƒīƞīşħḗḓ ẇīŧħ {1} ḿīŀŀīşḗƈǿƞḓ "
-"ŧīḿḗǿŭŧ  鶱ϕǅ ϐ 鶱ΐǅſǅΰǲ]"
+"ŧīḿḗǿŭŧ  ΐΐǅ ϰ ı衋鶱ϖſ靐ǈ]"
 
 #: src/puppetlabs/jdbc_util/pool.clj:218
 msgid "{0} - Cancelling db-init due to timeout"
-msgstr "[{0} - Ƈȧƞƈḗŀŀīƞɠ ḓƀ-īƞīŧ ḓŭḗ ŧǿ ŧīḿḗǿŭŧ ϕǅ靐 ς 衋ΰǋǋ]"
+msgstr "[{0} - Ƈȧƞƈḗŀŀīƞɠ ḓƀ-īƞīŧ ḓŭḗ ŧǿ ŧīḿḗǿŭŧ ϐſ靐 ẛ ϱſϕǅ]"
